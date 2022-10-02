@@ -6,6 +6,8 @@ I've completed the Level 4 Full Stack Developer course and am now working toward
 
 I hope to learn as much as possible in the next coming months, and hopefully will make software development a career! 
 
+
+
 About me:
 
 💂‍♂️ Served with the NZDF for 1 Year
@@ -23,6 +25,7 @@ Contact me @ :
 calebw@missionreadyhq.com
 
 LinkedIn: https://www.linkedin.com/in/caleb-winters-57863a251/
+
 
 Cheers!
 
