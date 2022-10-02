@@ -22,6 +22,8 @@ Contact me @ :
 
 calebw@missionreadyhq.com
 
+LinkedIn: https://www.linkedin.com/in/caleb-winters-57863a251/
+
 Cheers!
 
 
