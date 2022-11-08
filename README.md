@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Caleb Winters, I am currently studying software development @MissionreadyHQ
+My name is Caleb Winters, I am currently studying software development @MissionreadyHQ, also interning @ the Auckland Council 
 
 I've completed a Level 4 Full Stack Developer course and the Level 5 Advanced Software Development course.
 
