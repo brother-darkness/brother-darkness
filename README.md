@@ -2,7 +2,7 @@
 
 My name is Caleb Winters, I am currently studying software development @MissionreadyHQ
 
-I've completed the Level 4 Full Stack Developer course and am now working towards the Level 5 Advanced course.
+I've completed a Level 4 Full Stack Developer course and the Level 5 Advanced Software Development course.
 
 I hope to learn as much as possible in the next coming months, and hopefully will make software development a career! 
 
